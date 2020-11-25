@@ -189,11 +189,15 @@ Here are the steps:
 
 1. Build a survey (we'll do this as a class first) to gather information on where each of your group members would typically be at 2-hour intervals from 12AM to 12AM
 2. Collect a dataset of Before Covid and During Covid data for each of your group members 
-3. Visualize the Before Covid on one radar chart
-4. Visualize the During Covid on a second radar chart
-5. Display both charts in a single webpage to compare Before and During, with different colors representing each person in the group
+3. Build a GitHub repository for your work and add all of your group members as collaborators
+4. Visualize the Before Covid on one radar chart
+5. Visualize the During Covid on a second radar chart
+6. Display both charts in a single webpage to compare Before and During, with different colors representing each person in the group
+7. Enable GitHub pages and share the URL to your final product in the Zoom chat
 
 Other things to keep in mind: 
 
 * You should customize your group's survey based on the needs of your group
-* Split up tasks appropriately. A couple of people can format the data for each data set (Before and During) while another person builds out the JavaScript code. If you have a fourth person in your group, they can work on CSS styling. 
+* Split up tasks appropriately. For example, while two-three of you customize your group's survey, another group member can set up the GitHub repository and invite the rest of the group as collaborators. A couple of people can format the data for each data set (Before and During) while another person builds out the JavaScript code. If you have a fourth person in your group, they can work on CSS styling. 
+* If you have questions, drop them in the chat and I'll join your breakout group to answer them. Or one of your group members can return to the main room to ask your question. 
+* Make as much progress as you can during work time
