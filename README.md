@@ -200,4 +200,3 @@ Other things to keep in mind:
 * You should customize your group's survey based on the needs of your group
 * Split up tasks appropriately. For example, while two-three of you customize your group's survey, another group member can set up the GitHub repository and invite the rest of the group as collaborators. A couple of people can format the data for each data set (Before and During) while another person builds out the JavaScript code. If you have a fourth person in your group, they can work on CSS styling. 
 * If you have questions, drop them in the chat and I'll join your breakout group to answer them. Or one of your group members can return to the main room to ask your question. 
-* Make as much progress as you can during work time
