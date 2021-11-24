@@ -181,7 +181,7 @@ In the same webpage as you put the first chart, add a second, this time a bar ch
       }
   ```
 
-#### Part 3: Group radar charts
+#### Part 3: Group radar charts (not something we'll be doing this year, but I've left it for you to check out in case you're super into radar charts)
 
 In small groups, your next task is to build a radar chart of where you and your group members spend your time throughout the day on a typical Friday before and during the Covid pandemic. 
 
