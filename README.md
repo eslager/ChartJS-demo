@@ -59,7 +59,7 @@ var asia = [282,350,411,502,635,809,947,1402,3700,5267];
 var europe = [168,170,178,190,203,276,408,547,675,734];
 var latinAmerica = [40,20,10,16,24,38,74,167,508,784];
 var northAmerica = [6,3,2,2,7,26,82,172,312,433];
-var oceana = [3,3,2,2,2,2,6,13,30,57];
+var oceania = [3,3,2,2,2,2,6,13,30,57];
 ```
 
 **Step 4: Rendering the chart**
@@ -139,8 +139,8 @@ View your changes again. You should see a blue line, labeled Africa with no fill
   fill: false
 },
 {
-  data: oceana, 
-  label: "Oceana",
+  data: oceania, 
+  label: "Oceania",
   borderColor: "#3e95cd",
   fill: false
 }
